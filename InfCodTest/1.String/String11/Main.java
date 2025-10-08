@@ -39,10 +39,7 @@ public class Main {
 	    if(cnt!=1) {
 	    	  sb.append(cnt);
 	    }
-	  
-	    
-	    
-		String res = sb.toString();
+	  		String res = sb.toString();
 		System.out.println(res);
 
 	}
