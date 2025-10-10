@@ -27,7 +27,7 @@ public class Main {
 			}else {
 				sb.append(arr[i]);
 				if(cnt!=1) {
-					sb.append(cnt);
+					sb.append(cnt); 
 				}
 				cnt=1;
 			}
